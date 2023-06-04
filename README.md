@@ -18,6 +18,9 @@ Connaissances en HTML, voici quelques ressources utiles :
 - [Mozilla Developer Network - HTML](https://developer.mozilla.org/fr/docs/Web/HTML)
 - [W3Schools - HTML Tutorial](https://www.w3schools.com/html/)
 
+## Démonstration
+[HTMLRecettes](https://jfgill.github.io/HTMLRecettes/)
+
 
 ## Licence
 
